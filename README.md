@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay G Nayak
-- 👀 I’m interested in Machine Learning,IOT
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning OpenCV
 - Always interested to take up exciting projects and learn the technolody embedded.
 
