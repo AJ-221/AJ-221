@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AJ-221" alt="AJ-221" /></a> </p>
 </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithm** -->
 - 📫 How to reach me **ajaygnayak221@gmail.com**
 -    Always interested to take up exciting projects and learn the technolody embedded.
 
