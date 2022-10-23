@@ -5,7 +5,7 @@
 </p>
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithm** -->
-- 📫 How to reach me **ajaygnayak221@gmail.com**
+- 📫 How to reach me **ajaygnayak221@gmail.com****ajayg.ec19@bmsce.com**
 -    Always interested to take up exciting projects and learn the technolody embedded.
 
 <h3 align="center">Connect with me:</h3>
